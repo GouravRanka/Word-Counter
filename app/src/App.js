@@ -58,7 +58,7 @@ else{
  
 
 
-  <About  mode={mode}/>
+
 
 
 
