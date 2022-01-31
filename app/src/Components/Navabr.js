@@ -18,12 +18,7 @@ export default function Navabr(props) {
               <li className="nav-item">
                <a className="nav-link active" aria-current="page" href="/">Home</a> 
               </li>
-              <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">about us </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">contact us </a>
-              </li>
+   
           
             </ul>
          
